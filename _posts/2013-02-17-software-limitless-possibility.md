@@ -13,7 +13,7 @@ No one can think of all the possibilities for software, but here are a few gener
 
 ## Communication platforms
 
-Since computers tend to be *inter*con*ne*c*t*ed, plenty of software has emerged that helps people express themselves to others around the world. One can easily [broadcast a public message](http://twitter.com), [contribute to a universal repository of knowledge](http://wikipedia.org), [release the next big hit](https://www.youtube.com/watch?v=QK8mJJJvaes), and make lifelong friends, all from the confines of their bedroom.
+Since computers tend to be interconnected, plenty of software has emerged that helps people express themselves to others around the world. One can easily [broadcast a public message](http://twitter.com), [contribute to a universal repository of knowledge](http://wikipedia.org), [release the next big hit](https://www.youtube.com/watch?v=QK8mJJJvaes), and make lifelong friends, all from the confines of their bedroom.
 
 ## Creative tools
 

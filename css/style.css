@@ -11,6 +11,14 @@ body {
   position: relative;
 }
 
+i, em {
+  font-style: italic;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
 header, footer {
   background-color: #0F4D92;
   font-family: "Noto Serif", serif;
