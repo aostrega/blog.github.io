@@ -6,7 +6,7 @@ layout: nil
  
   <title>Artur Ostrega</title>
   <link href="http://artur.ostrega.me/"/>
-  <link type="application/atom+xml" rel="self" href="http://artur.ostrega.me/atom.xml"/>
+  <link type="application/atom+xml" rel="self" href="http://artur.ostrega.me/feed.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://artur.ostrega.me/</id>
   <author>
