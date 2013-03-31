@@ -1,0 +1,32 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Artur Ostrega</title>
+  <link href="http://artur.ostrega.me/"/>
+  <link type="application/atom+xml" rel="self" href="http://artur.ostrega.me/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://artur.ostrega.me/</id>
+  <author>
+    <name>Artur Ostrega</name>
+    <email>artur@ostrega.me</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>http://example.com{{ post.url }}</id>
+    <link type="text/html" rel="alternate" href="http://example.com{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Artur Ostrega</name>
+      <uri>http://artur.ostrega.me/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+ 
+</feed>
