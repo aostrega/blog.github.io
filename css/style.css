@@ -19,6 +19,11 @@ b, strong {
   font-weight: bold;
 }
 
+code {
+  font-family: "Courier New", monospace;
+  background-color: #EEE;
+}
+
 header, footer {
   background-color: #0F4D92;
   font-family: "Times New Roman", serif;
@@ -55,7 +60,7 @@ footer div {
   float: left;
   margin-left: 1em;
   font-style: italic;
-  margin-top: 1.4em;
+  margin-top: 1.5em;
 }
 
 footer ul {
