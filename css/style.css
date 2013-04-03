@@ -74,6 +74,19 @@ footer ul {
   line-height: 1.4em;
 }
 
+#subscribe {
+  color: #D95C29;
+  display: block;
+  margin-bottom: 1em;
+  float: right;
+}
+
+#subscribe img {
+  width: 16px;
+  margin-right: .4em;
+  margin-bottom: -.1em;
+}
+
 #blog-posts {
   font-size: 1.4em;
   line-height: 1.4em;
