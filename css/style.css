@@ -74,19 +74,6 @@ footer ul {
   line-height: 1.4em;
 }
 
-#subscribe {
-  color: #D95C29;
-  display: block;
-  margin-bottom: 1em;
-  float: right;
-}
-
-#subscribe img {
-  width: 16px;
-  margin-right: .4em;
-  margin-bottom: -.1em;
-}
-
 #blog-posts {
   font-size: 1.4em;
   line-height: 1.4em;
@@ -99,6 +86,10 @@ footer ul {
 
 #blog-posts a {
   color: #111;
+}
+
+#blog-posts a:visited {
+  color: #777;
 }
 
 article h1 {
@@ -122,5 +113,26 @@ article p {
 }
 
 article a {
+  color: #111;
+}
+
+article a:visited {
+  color: #777;
+}
+
+#subscribe {
+  color: #D95C29;
+  display: block;
+  margin-bottom: 1em;
+  float: right;
+}
+
+#subscribe img {
+  width: 16px;
+  margin-right: .4em;
+  margin-bottom: -.1em;
+}
+
+#back:visited {
   color: #111;
 }
