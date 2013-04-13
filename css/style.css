@@ -59,14 +59,17 @@ header h1 {
 footer div {
   float: left;
   margin-left: 1em;
-  font-style: italic;
-  margin-top: 1.45em;
+  position: absolute;
+  bottom: 1em;
 }
 
 footer ul {
   float: right;
   margin-right: 1em;
   text-align: right;
+  position: absolute;
+  bottom: 1em;
+  right: 0;
 }
 
 #content {
