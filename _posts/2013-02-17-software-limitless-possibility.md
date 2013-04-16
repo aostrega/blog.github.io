@@ -7,7 +7,7 @@ To make software that puts a dent in the universe, it is essential to be able to
 
 What is software? It is a series of instructions for manipulating information on a computer. These instructions can be anything a person can logically communicate, and computers can carry them out at rates exceeding 50 billion per second.
 
-![xkcd: Abstraction](/images/xkcd-abstraction.png "xkcd: Abstraction")
+[![xkcd: Abstraction](/images/xkcd-abstraction.png "xkcd: Abstraction")](http://xkcd.com/676)
 
 No one can think of all the possibilities for software, but here are a few general ideas that have proven popular:
 
@@ -19,12 +19,12 @@ Since computers tend to be interconnected, plenty of software has emerged that h
 
 There is software that gives people the power to create and manipulate any sort of media with unprecedented efficiency and detail. With practice, you can turn visual and aural representations of reality into whatever you can imagine. [This song knows what I’m talking about.](https://www.youtube.com/watch?v=IwvaodjH5lU)
 
-![Tears of Steel](/images/tears-of-steel.jpg "Tears of Steel")
+[![Tears of Steel](/images/tears-of-steel.jpg "Tears of Steel")](https://www.youtube.com/watch?v=R6MlUcmOul8)
 
 ## Simulated worlds
 
 We can take what we made with those tools and selectively apply ancient knowledge of how our universe physically works to create software that runs entire audiovisual worlds born of our imagination, the rules of which are completely up to us.
 
-![Overgrowth](/images/overgrowth.jpg "Overgrowth")
+[![Overgrowth](/images/overgrowth.jpg "Overgrowth")](https://www.youtube.com/watch?v=QhWHIkvfa90)
 
 These are just a few things software can be. We have only begun unraveling software’s vast potential and there may be entire categories like this that have not been thought of yet but will eventually become a part of our daily lives. The only limit is our imagination!
