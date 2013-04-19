@@ -2,7 +2,6 @@
 layout: post
 title: Software == limitless possibility
 ---
-
 To make software that puts a dent in the universe, it is essential to be able to see past the status quo of software and understand its capacity to do literally anything imaginable.
 
 What is software? It is a series of instructions for manipulating information on a computer. These instructions can be anything a person can logically communicate, and computers can carry them out at rates exceeding 50 billion per second.
