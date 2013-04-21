@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Use a sketchbook as your mousepad
+layout: post
 ---
 At one point I found myself with a mouse but no mousepad. I surveyed my room for a suitable substitute and settled on my sketchbook. It has a large surface and a satisfying texture.
 

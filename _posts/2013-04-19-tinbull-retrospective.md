@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Tin Bull retrospective
+layout: post
 ---
 A few months ago I released [Tin Bull](http://tinbull.com), an anonymous discussion board. Its purpose was to be the next generation anonymous textboard and I hoped it would attract a community that would engage in civil, intellectual discussion à la [Hacker News](http://news.ycombinator.com).
 

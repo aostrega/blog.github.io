@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Piki retrospective
+layout: post
 ---
 Late last year I released [Piki](http://piki.heroku.com), a web app designed to make it as intuitive and comfortable as possible to create and maintain personal wikis. It was supposed to be a breath of fresh air in an ecosystem filled with heavy and complicated solutions - a [Sculptris](/images/sculptris.png) among [ZBrushes](/images/zbrush.jpg).
 

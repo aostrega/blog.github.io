@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Software == limitless possibility
+layout: post
 ---
 To make software that puts a dent in the universe, it is essential to be able to see past the status quo of software and understand its capacity to do literally anything imaginable.
 
