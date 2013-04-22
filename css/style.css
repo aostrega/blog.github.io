@@ -20,8 +20,9 @@ b, strong {
 }
 
 code {
-  font-family: "Courier New", monospace;
+  font-family: "Droid Sans Mono", monospace;
   background-color: #EEE;
+  padding: .1em;
 }
 
 header, footer {
