@@ -12,4 +12,4 @@ Put your information into a JSON file ([example](https://github.com/skofo/resume
 
 Now you get to write your stylesheet. This is no different from styling a regular web page, except that the body should have an explicit width (at least ~650px) and its margin set to auto. Given that, your generated PDF file should look almost exactly like your web page and fit neatly between the page margins. Speaking of margins, you can set the paper and margin sizes on lines 5 and 6 of build.js ([more info here](https://github.com/ariya/phantomjs/wiki/API-Reference-WebPage#wiki-webpage-paperSize)).
 
-That's all there is to it. Just rerun that last command as many times as you need to while you're working on the style, then in the future you can run it without the argument after changing the JSON data.
+That's all there is to it. Just rerun that last command as many times as you need to while you're working on the style, then in the future you can run it without the argument after you change the JSON data.
