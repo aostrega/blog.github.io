@@ -23,7 +23,7 @@ code {
   font-family: "Droid Sans Mono", monospace;
   background-color: #EEE;
   font-size: .9em;
-  padding: .25em;
+  display: inline-block;
 }
 
 header, footer {
