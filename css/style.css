@@ -22,7 +22,8 @@ b, strong {
 code {
   font-family: "Droid Sans Mono", monospace;
   background-color: #EEE;
-  padding: .1em;
+  font-size: .9em;
+  padding: .25em;
 }
 
 header, footer {
