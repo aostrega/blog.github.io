@@ -14,16 +14,16 @@ body {
   margin: auto;
 }
 
-a {
-  color: #FFF;
-}
-
 i, em {
   font-style: italic;
 }
 
 b, strong {
   font-weight: bold;
+}
+
+a {
+  color: #FFF;
 }
 
 code {
@@ -41,12 +41,12 @@ header a, footer a {
   color: #FFF;
 }
 
-header a {
-  text-decoration: none;
+#title {
+  font-size: 3em;
 }
 
-header h1 {
-  font-size: 3em;
+#title a {
+  text-decoration: none;
 }
 
 #content {
@@ -67,26 +67,31 @@ header h1 {
   color: #999;
 }
 
-article h1 {
-  font-size: 1.8em;
-  line-height: 1.4em;
-}
-
-article h2 {
-  font-size: 1.4em;
-  line-height: 1.4em;
+#post-heading {
   margin-bottom: .3em;
 }
 
-#post-date {
-  color: #AAA;
-  margin-bottom: .6em;
+#post-heading h1 {
+  font-size: 1.8em;
+  margin-bottom: .3em;
 }
 
-article p {
+#post-heading h2 {
+  font-size: 1.4em;
+  color: #AAA;
+  margin-bottom: .8em;
+}
+
+#post-content p {
   font-size: 1.1em;
-  margin-bottom: .75em;
   line-height: 1.5em;
+  margin-bottom: .8em;
+}
+
+#post-content h2 {
+  font-size: 1.4em;
+  margin-top: 1.6em;
+  margin-bottom: .6em;
 }
 
 #back {
@@ -108,4 +113,3 @@ footer ul {
 footer ul li {
   display: inline-block;
 }
-
