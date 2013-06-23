@@ -1,14 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
-  background-color: #002147;
-  height: 100%;
+  background-color: #536878;
 }
 
 body {
-  background-color: #FEFEFA;
-  font-family: "Open Sans", sans-serif;
-  width: 40em;
+  font-size: 1.2em;
+  color: #EEE;
+  font-family: "Droid Serif", "Georgia", serif;
+  width: 42em;
   margin: auto;
-  position: relative;
+}
+
+a {
+  color: #FFF;
 }
 
 i, em {
@@ -21,32 +28,17 @@ b, strong {
 
 code {
   font-family: "Droid Sans Mono", monospace;
-  background-color: #EEE;
   font-size: .9em;
   display: inline-block;
 }
 
 header, footer {
-  background-color: #0F4D92;
-  font-family: "Ovo", serif;
-  color: #FEFEFA;
-  padding-top: 1em;
-  padding-bottom: 1em;
-}
-
-header {
-  margin-bottom: 1em;
-}
-
-footer {
-  width: 100%;
-  height: 66px;
-  line-height: 1.4em;
-  margin-top: 1em;
+  font-family: "Droid Sans Mono", monospace;
+  padding: 1em;
 }
 
 header a, footer a {
-  color: #FEFEFA;
+  color: #FFF;
 }
 
 header a {
@@ -54,51 +46,29 @@ header a {
 }
 
 header h1 {
-  font-size: 5em;
-  text-align: center;
-}
-
-footer div {
-  float: left;
-  margin-left: 1em;
-  position: absolute;
-  bottom: 1em;
-}
-
-footer ul {
-  float: right;
-  margin-right: 1em;
-  text-align: right;
-  position: absolute;
-  bottom: 1em;
-  right: 0;
+  font-size: 3em;
 }
 
 #content {
-  margin: 1em;
-  line-height: 1.4em;
+  padding: 1em;
 }
 
 #blog-posts {
-  font-size: 1.4em;
+  font-size: 1.5em;
   line-height: 1.4em;
 }
 
-#blog-posts span {
-  color: #AAA;
-  margin-right: 1em;
-}
-
-#blog-posts a {
-  color: #002147;
-}
-
 #blog-posts a:visited {
-  color: #777;
+  color: #CCC;
+}
+
+#blog-posts span {
+  margin-right: 1em;
+  color: #999;
 }
 
 article h1 {
-  font-size: 2em;
+  font-size: 1.8em;
   line-height: 1.4em;
 }
 
@@ -114,30 +84,28 @@ article h2 {
 }
 
 article p {
+  font-size: 1.1em;
   margin-bottom: .75em;
+  line-height: 1.5em;
 }
 
-article a {
-  color: #002147;
+#back {
+  font-size: 1.2em;
 }
 
-article a:visited {
-  color: #777;
+footer div {
+  float: left;
+  margin-left: 1em;
+  position: absolute;
+  bottom: 1em;
 }
 
-#subscribe {
-  color: #D95C29;
-  display: block;
-  margin-bottom: 1em;
-  float: right;
+footer ul {
+  text-align: right;
+  font-size: 1.1em;
 }
 
-#subscribe img {
-  width: 16px;
-  margin-right: .4em;
-  margin-bottom: -.1em;
+footer ul li {
+  display: inline-block;
 }
 
-#back:visited {
-  color: #002147;
-}
