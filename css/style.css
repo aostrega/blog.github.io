@@ -94,6 +94,14 @@ header a, footer a {
   margin-bottom: .6em;
 }
 
+#post-content .post-image {
+  text-align: center;
+}
+
+#post-content .post-image img {
+  border: 2px solid #EEE;
+}
+
 #back {
   font-size: 1.2em;
 }
