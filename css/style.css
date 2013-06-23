@@ -10,7 +10,7 @@ body {
   font-size: 1.2em;
   color: #EEE;
   font-family: "Droid Serif", "Georgia", serif;
-  width: 42em;
+  max-width: 42em;
   margin: auto;
 }
 
@@ -100,6 +100,7 @@ header a, footer a {
 
 #post-content .post-image img {
   border: 2px solid #EEE;
+  max-width: 100%;
 }
 
 #back {
@@ -120,4 +121,34 @@ footer ul {
 
 footer ul li {
   display: inline-block;
+}
+
+@media screen and (max-width: 700px) {
+  #title {
+    font-size: 2em;
+  }
+
+  #blog-posts {
+    font-size: 1.2em;
+  }
+
+  #post-heading h1 {
+    font-size: 1.6em;
+  }
+
+  #post-heading h2 {
+    font-size: 1.3em;
+  }
+
+  #post-content p {
+    font-size: 1em;
+  }
+
+  #post-content h2 {
+    font-size: 1.2em;
+  }
+
+  footer ul {
+    font-size: 1em;
+  }
 }
