@@ -55,14 +55,18 @@ header a, footer a {
 
 #blog-posts {
   font-size: 1.5em;
-  line-height: 1.4em;
 }
 
-#blog-posts a:visited {
+.blog-post {
+  margin-bottom: .2em;
+  line-height: 1.2em;
+}
+
+.blog-post a:visited {
   color: #CCC;
 }
 
-#blog-posts span {
+.blog-post span {
   margin-right: 1em;
   color: #999;
 }
@@ -125,30 +129,34 @@ footer ul li {
 
 @media screen and (max-width: 700px) {
   #title {
-    font-size: 2em;
-  }
-
-  #blog-posts {
-    font-size: 1.2em;
-  }
-
-  #post-heading h1 {
-    font-size: 1.6em;
-  }
-
-  #post-heading h2 {
     font-size: 1.3em;
   }
 
-  #post-content p {
+  #blog-posts {
     font-size: 1em;
   }
 
-  #post-content h2 {
+  #post-heading h1 {
     font-size: 1.2em;
   }
 
-  footer ul {
+  #post-heading h2 {
     font-size: 1em;
+  }
+
+  #post-content p {
+    font-size: .8em;
+  }
+
+  #post-content h2 {
+    font-size: 1em;
+  }
+
+  #back {
+    font-size: 1em;
+  }
+
+  footer ul {
+    font-size: .9em;
   }
 }
