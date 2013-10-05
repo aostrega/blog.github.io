@@ -96,13 +96,25 @@ header a, footer a {
 
 #post-content pre {
   background-color: #333;
-  overflow-x: scroll;
+  overflow-x: hidden;
 }
 
 #post-content h2 {
   font-size: 1.4em;
   margin-top: 1.2em;
   margin-bottom: .6em;
+}
+
+#post-content ul, #post-content ol {
+  margin-left: 2.5em;
+}
+
+#post-content ul {
+  list-style-type: disc;
+}
+
+#post-content ol {
+  list-style-type: decimal;
 }
 
 #post-content .post-image {
