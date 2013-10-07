@@ -23,25 +23,12 @@ Modern video game development tools fall between two extremes: the statically ty
   <line x1="70%" x2="70%" y1="52.5%" y2="40%" />
   <line x1="90%" x2="90%" y1="60%" y2="47.5%" />
   // labels
-  <text x="5%" y="25%">C++ with
-    <tspan x="5%" y="35%">media APIs</tspan>
-  </text>
-  <text x="23%" y="70%">Java/C# with
-    <tspan x="23%" y="80%">media APIs or</tspan>
-    <tspan x="23%" y="90%">game library
-  </text>
-  <text x="40%" y="15%">Python/JavaScript/
-    <tspan x="40%" y="25%">ActionScript with</tspan>
-    <tspan x="40%" y="35%">game library</tspan>
-  </text>
+  <text x="5%" y="25%">C++ with <tspan x="5%" y="35%">media APIs</tspan></text>
+  <text x="23%" y="70%">Java/C# with <tspan x="23%" y="80%">media APIs or</tspan> <tspan x="23%" y="90%">game library</text>
+  <text x="40%" y="15%">Python/JavaScript/<tspan x="40%" y="25%">ActionScript with</tspan> <tspan x="40%" y="35%">game library</tspan></text>
   <text class="hilite-text" x="57%" y="70%">Yeah</text>
-  <text x="65%" y="15%">Development environments
-    <tspan x="65%" y="25%">with a domain-specific</tspan>
-    <tspan x="65%" y="35%">language, map editor...</tspan>
-  </text>
-  <text x="80%" y="70%">Drag-and-drop
-    <tspan x="80%" y="80%">game creators</tspan>
-  </text>
+  <text x="65%" y="15%">Development environments <tspan x="65%" y="25%">with a domain-specific</tspan> <tspan x="65%" y="35%">language, map editor...</tspan></text>
+  <text x="80%" y="70%">Drag-and-drop <tspan x="80%" y="80%">game creators</tspan></text>
 </svg>
 
 Technology on the right side of the spectrum is typically designed to help people without much programming experience make video games, though it is generally thought that to create a serious game, your tools need to lean to the left side.
