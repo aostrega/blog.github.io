@@ -2,7 +2,7 @@
 title: Tin Bull retrospective
 layout: post
 ---
-A few months ago I released [Tin Bull](http://tinbull.com), an anonymous discussion board. Its purpose was to be the next generation anonymous textboard and I hoped it would attract a community that would engage in civil, intellectual discussion à la [Hacker News](http://news.ycombinator.com).
+A few months ago I released [Tin Bull](http://tinbull.heroku.com), an anonymous discussion board. Its purpose was to be the next generation anonymous textboard and I hoped it would attract a community that would engage in civil, intellectual discussion à la [Hacker News](http://news.ycombinator.com).
 
 I designed it so that topics are sorted by heat of discussion, and posts within a topic are sorted by newness so that everyone has an equal voice. It also has throwaway pseudonymity that improves on [tripcodes](https://upload.wikimedia.org/wikipedia/commons/b/b8/Tripcode.png), dynamic sections, and a clear visual design that adheres to fundamental design principles.
 
