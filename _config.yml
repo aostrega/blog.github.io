@@ -1,5 +1,5 @@
 permalink: /posts/:title
-pygments: true
-markdown: rdiscount
-rdiscount:
+markdown: kramdown
+kramdown:
   extensions: [smart]
+  highlighter: rouge
